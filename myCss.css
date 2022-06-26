@@ -1,0 +1,23 @@
+#mainSection{
+    background-color: beige;
+    padding: 3rem 3rem;
+    margin-top: 3rem;
+    text-align: center;
+}
+
+#resultSection {
+    background-color: rgb(28, 57, 219);
+    padding: 3rem 3rem;
+    margin-top: 3rem;
+    text-align: center;
+    display: none;
+}
+
+#err6{
+    font-size: large;
+    color:white;
+}
+
+#kontrolButton{
+margin-top: 1rem;
+}
